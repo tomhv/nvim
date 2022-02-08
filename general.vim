@@ -1,4 +1,4 @@
-colorscheme desert
+colorscheme xcodedark
 
 let mapleader = ";"         " set leader key to ; for easier reach
 set expandtab               " converts tabs to white space
